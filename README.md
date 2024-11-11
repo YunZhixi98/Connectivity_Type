@@ -8,7 +8,7 @@ This repository holds the analytic scripts of the paper:
 > advances in somewhere, 202x
 
 <p align="center">
-  <img src="overview.png" width="1000">
+  <img src="./config/overview.png" width="1000">
 </p>
 
 ## Abstract
