@@ -17,4 +17,4 @@ This repository holds the analytic scripts of the paper:
 
 -------
 
-Some necessary materials (morphological features etc.) can be downloaded [here](https://doi.org/10.5281/zenodo.14242861).
+Some necessary materials (morphological features etc.) can be downloaded from the Zenodo [repository](https://doi.org/10.5281/zenodo.14242860).
