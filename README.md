@@ -17,4 +17,4 @@ This repository holds the analytic scripts of the paper:
 
 -------
 
-Some necessary materials (morphological features etc.) can be downloaded [here](https://braintell.org/projects/mousectype/Materials_0516.zip).
+Some necessary materials (morphological features etc.) can be downloaded [here](https://doi.org/10.5281/zenodo.14242861).
