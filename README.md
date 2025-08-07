@@ -1,7 +1,7 @@
 # Connectivity_Type (C-Type)
 This repository holds the analytic scripts of the paper: 
 
-[**Anatomical Connectivity of Single Neurons Helps Classify Cell Subtypes in Mouse Brains**](https://doi.org/10.21203/rs.3.rs-2960606/v1)
+[**Anatomical Connectivity of Single Neurons Helps Classify Cell Subtypes in Mouse Brains**](https://doi.org/10.1038/s41592-025-02621-6)
 
 > Lijuan Liu†, Zhixi Yun†, Linus Manubens-Gil, Hanbo Chen, Feng Xiong, Hong-Wei Dong, Hongkui Zeng, Michael Hawrylycz, Giorgio Ascoli, Hanchuan Peng*
 > 
