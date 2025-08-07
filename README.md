@@ -5,7 +5,7 @@ This repository holds the analytic scripts of the paper:
 
 > Lijuan Liu†, Zhixi Yun†, Linus Manubens-Gil, Hanbo Chen, Feng Xiong, Hong-Wei Dong, Hongkui Zeng, Michael Hawrylycz, Giorgio Ascoli, Hanchuan Peng*
 > 
-> Liu, L., Yun, Z., Manubens-Gil, L. et al. Connectivity of single neurons classifies cell subtypes in mouse brains. Nat Methods 22, 861–873 (2025). https://doi.org/10.1038/s41592-025-02621-6
+> Liu, L., Yun, Z., Manubens-Gil, L. et al. Connectivity of single neurons classifies cell subtypes in mouse brains. _Nat Methods_ **22**, 861–873 (2025). https://doi.org/10.1038/s41592-025-02621-6
 
 <p align="center">
   <img src="./config/overview.png" width="800">
